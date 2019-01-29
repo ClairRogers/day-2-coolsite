@@ -3,7 +3,7 @@ body {
 }
 
 header {
-  background-color: rgb(57, 57, 143);
+  background-color: #1c4587;
   color: white;
   text-align: center;
   font-size: 25px;
@@ -15,18 +15,18 @@ header {
 
 header:hover {
   letter-spacing: 2px;
-  background-color: rgb(69, 69, 156)
+  background-color: #244f94;
 }
 
 footer {
-  background-color: rgb(57, 57, 143);
+  background-color: #1c4587;
   padding: 50px;
   border-top: 3px solid rgb(30, 30, 83)
 }
 
 
 .leftbox-title {
-  border-top: 15px solid rgb(167, 205, 240);
+  border-top: 15px solid #cee2f4;
   margin-top: 20px;
 }
 
@@ -50,7 +50,7 @@ footer {
 }
 
 .leftbox:hover {
-  background-color: rgb(229, 239, 248)
+  background-color: rgb(241, 246, 250);
 }
 
 .rightbox {
@@ -66,7 +66,7 @@ footer {
 }
 
 .rightbox:hover {
-  background-color: rgb(229, 239, 248)
+  background-color: rgb(241, 246, 250);
 }
 
 .rightbox p {
