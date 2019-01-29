@@ -1,0 +1,67 @@
+body {
+  font-family: 'Koho', sans-serif;
+}
+
+header {
+  background-color: rgb(57, 57, 143);
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  padding-top: 20px;
+  padding-bottom: 1px;
+}
+
+footer {
+  background-color: rgb(57, 57, 143);
+  padding: 50px;
+}
+
+
+.leftbox-title {
+  border-top: 15px solid rgb(167, 205, 240);
+  margin-top: 20px;
+}
+
+.leftbox h1 {
+  margin-top: 0px;
+  padding: 10px;
+}
+
+.leftbox p {
+  padding-left: 20px;
+}
+
+
+.leftbox {
+  display: inline-block;
+  position: relative;
+  width: 40%;
+  padding: 20px;
+  left: 25%;
+}
+
+.rightbox {
+  display: inline-block;
+  float: right;
+  position: relative;
+  width: 25%;
+  max-width: 300px;
+  padding: 30px;
+  margin-top: 50px;
+  font-size: 12px;
+}
+
+.rightbox p {
+  padding-left: 10px;
+}
+
+.rightbox img {
+  width: 100%;
+  max-width: 300px;
+}
+
+.rightbox h3 {
+  padding-left: 10px;
+  margin-bottom: -10px;
+}
+
